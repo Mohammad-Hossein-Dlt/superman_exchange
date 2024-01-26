@@ -1,0 +1,1 @@
+enum ThemeEntities { light, dark }
