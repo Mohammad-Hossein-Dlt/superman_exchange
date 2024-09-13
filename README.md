@@ -1,16 +1,8 @@
-# exchange
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![my img](media/video.mp4)
+![my img](media/1.jpg)
+![my img](media/2.jpg) 
+![my img](media/3.jpg)
+![my img](media/4.jpg) 
+![my img](media/5.jpg)
+![my img](media/6.jpg)
